@@ -1,0 +1,27 @@
+{
+  "nodes":[
+    {
+      "comm_system_name" : "comm1",
+      "created_at": "12390139103492345",
+      "updated_at": "1029485854",
+      "node_name" : "xxxx1",
+      "node_type" : "ATM_DEVICE",
+      "longitude": "xxx",
+      "latitude": "xxxx",
+      "info": {
+        "node_ATM_address" : "xxxx",
+        "node_ID" : "xxx",
+        "node_port" : "xxx",
+        "router_ID":"xxxx",
+        "router_interface" : "xxxx",
+        "subnet_id": "",
+        "subnet_mask": "",
+        "area_id": "xxxx",
+        "role_desp": "xxxx",
+        "station_location": "xxxx",
+      }
+    },
+    {}
+  ],
+  "links" :[]
+}
